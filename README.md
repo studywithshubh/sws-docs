@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e79fffaf-9a10-46aa-ba8e-511f45020c5f" alt="infinoLogo" width="400">
+</p>
+
 ## This repository serves as the central documentation hub for **StudyWithShubh**. It contains essential information related to the Website's (OWN CMS) backend, frontend, routes, planning, and overall development structure and many more.
 
 ### 📂 What You'll Find Here: <br/><br/>
