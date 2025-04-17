@@ -23,3 +23,7 @@
 📌 **Further updates and improvements will be continuously added to this repository to ensure all documentation remains current and relevant.**
 
 <hr/>
+
+This is how signup and mail verification is done!
+
+![image](https://github.com/user-attachments/assets/09987f8b-3a1e-40ae-8874-7a5abdc9be51)
